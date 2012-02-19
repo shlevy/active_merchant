@@ -149,6 +149,11 @@ merchant_ware:
  password: 
  name: 
 
+# Working credentials, no need to replace
+mercury:
+  login: '595901'
+  password: 'xyz'
+
 modern_payments:
   login: login
   password: password
